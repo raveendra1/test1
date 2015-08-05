@@ -12,6 +12,7 @@ public class Note {
         return description;
     }
 
+    
     public void setDescription(String description) {
         this.description = description;
     }
